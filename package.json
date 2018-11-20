@@ -4,6 +4,7 @@
   "description": "Display Components based on screen orientation",
   "main": "./lib/index.js",
   "scripts": {
+    "build": "tsc",
     "compile": "babel --presets es2015,react -d lib/ src/",
     "prepublish": "npm run compile",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -33,5 +34,10 @@
     "babel-preset-es2015": "^6.0.15",
     "babel-preset-react": "^6.0.15",
     "standard": "^6.0.8"
+  },
+  "dependencies": {
+    "prettier": "^1.15.2",
+    "tslint": "^5.11.0",
+    "tslint-config-prettier": "^1.16.0"
   }
 }
