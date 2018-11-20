@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeroseven/react-screen-orientation.git"
+    "url": "git+https://github.com/khoahappy/react-screen-orientation.git"
   },
   "keywords": [
     "react"
@@ -19,9 +19,9 @@
   "author": "Timo Uhlmann <t.uhlmann@zeroseven.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zeroseven/react-screen-orientation/issues"
+    "url": "https://github.com/khoahappy/react-screen-orientation/issues"
   },
-  "homepage": "https://github.com/zeroseven/react-screen-orientation#readme",
+  "homepage": "https://github.com/khoahappy/react-screen-orientation#readme",
   "peerDependencies": {
     "prop-types": "^15.6.1",
     "react": "^16.0.0"
